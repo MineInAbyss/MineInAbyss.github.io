@@ -25,10 +25,10 @@ The skybox consists of many renders of different sections stitched together to c
 - Download the Fabric version of the skybox below.
 - Put the skybox into your resourcepack folder.
 
-**NOTE**: If you are using Optifine on fabric via OptiFabric, use the Optifine version above.
+**NOTE**: The skybox download links are removed as we are reworking it for the new map.
 
 
 <div style="text-align: center">
-<a class="fadeInUp animated button" href="optifinedownload.html">Download Optifine Skybox</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a class="fadeInUp animated button" href="fabricdownload.html">Download Fabric Skybox</a>
+<a class="fadeInUp animated button" style="text-decoration: line-through">Download Optifine Skybox</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a class="fadeInUp animated button" style="text-decoration: line-through">Download Fabric Skybox</a>
 </div>
