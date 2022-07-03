@@ -104,6 +104,16 @@
     border-color: #e76551 !important;
 }
 
+.kofi {
+    background-color: #ff5872 !important;
+    border-color: #ff5872 !important;
+}
+
+.kofi:hover {
+    background-color: #FF5E5B !important;
+    border-color: #FF5E5B !important;
+}
+
 .fab {
     font-weight: lighter;
 }
