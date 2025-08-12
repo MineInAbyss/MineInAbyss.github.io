@@ -1,4 +1,0 @@
-- [About](index.md)
-- *.md
-- [Util](util/)
-- [Gradle](gradle/)
