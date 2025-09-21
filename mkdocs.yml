@@ -6,7 +6,7 @@ edit_uri: edit/master/docs/
 theme:
   custom_dir: docs/templates
   features:
-    - navigation.instant
+#    - navigation.instant
     - navigation.tabs
     - toc.follow
     - content.code.annotate
