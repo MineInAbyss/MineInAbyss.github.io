@@ -1,4 +1,0 @@
-- [Setup](index.md)
-- [Loading prefabs](prefabs.md)
-- [Persistent data](persistentdatacontainer.md)
-- [Tracked entities](tracked-entities/)

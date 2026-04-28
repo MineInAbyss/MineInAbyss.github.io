@@ -1,2 +1,0 @@
-- [Creating mobs](index.md)
-- [Components](components/)

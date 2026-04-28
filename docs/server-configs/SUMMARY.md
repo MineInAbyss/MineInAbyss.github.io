@@ -1,2 +1,0 @@
-- [Introduction](intro.md)
-- [Config types](config-types.md)

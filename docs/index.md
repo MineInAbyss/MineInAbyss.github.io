@@ -1,32 +1,42 @@
 ---
-hide:
-- toc
-- navigation
-- title
+# Icons are from shocky-docs, it uses: https://tabler.io/icons
+template: landing
+title: Welcome
+desc: Mine in Abyss developer docs 
+items:
+  - title: Libraries
+    desc: Core libraries we maintain
+    icon: flask
+    url: /projects/libraries
+    
+  - title: Plugins
+    desc: PaperMC plugins for different gameplay features
+    icon: cube
+    url: /projects/plugins
+    
+  - title: Server stuff
+    desc: Configs & server administration
+    icon: server
+    url: /projects/server
+    
+  - title: Web-dev
+    desc: Our websites and generator
+    icon: world-www
+    url: /projects/web
+
+  - title: Public services
+    icon: share
+    desc: Services we self-host
+    url: /projects/services
+    
+  - title: All projects
+    icon: brand-github
+    desc: View the rest of our projects on GitHub
+    url: https://github.com/orgs/MineInAbyss/repositories?q=archived%3Afalse
+
 ---
 
-<style>
-.md-main {
-  margin:  auto;
-  max-width: 1000px;
-}
-</style>
+Welcome to the Mine in Abyss developer docs. This site lists all the projects we maintain and links to their documentation pages.
+Anyone interested in contributing can visit our Outline page linked at the top for guides, conventions, and more!
 
-# Welcome
-
-
-Welcome to the Mine in Abyss developer docs. We keep documentation for our major projects here.
-Anyone interested in contributing can visit our [Outline page](https://outline.mineinabyss.com/s/coding/) for guides, conventions, and more!
-
-[About Mine in Abyss](https://mineinabyss.com){ .md-button .md-button--primary }
-[I want to contribute](https://mineinabyss.com/contributing){ .md-button }
-
-## FAQ
-
-!!! question "Can I use your code in my projects?"
-    We try to keep everything we make open source, mostly under the very permissive MIT license which allows you to use and extend upon our plugins without asking. Be sure to read a project's license for specific details.
-    <br><br>
-    You can find everything on our [:simple-github: GitHub organization](https://github.com/MineInAbyss).
-
-!!! question "What's the best way to reach out if I have questions?"
-    You can reach us in [:simple-discord: `#plugin-dev`](https://discord.gg/4rJTVu4EuQ) on Discord. You may need to give yourself the coding club role to view the channel.
+## Our Projects

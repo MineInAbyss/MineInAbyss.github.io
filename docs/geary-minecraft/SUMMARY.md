@@ -1,3 +1,0 @@
-- [Content packs](content-packs/)
-- [Actions & Observers](actions/)
-- [Plugin Developers](developers/)

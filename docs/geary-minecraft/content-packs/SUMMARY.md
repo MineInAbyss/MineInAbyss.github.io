@@ -1,6 +1,0 @@
-- [File structure](file-structure.md)
-- [Commands](commands.md)
-- [Items](items/)
-- [Blocks](blocks/)
-- [Mobs](mobs/)
-- [Spawning](spawning/)

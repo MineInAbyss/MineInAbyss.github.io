@@ -1,7 +1,0 @@
-- [Quickstart](quickstart.md)
-- [Learn to Code](learn/)
-- [Conventions](conventions/)
-- [Private assets](private-assets.md)
-- [Dependencies](deps/)
-- [Server management](server-management/)
-- [Resources](resources/)
