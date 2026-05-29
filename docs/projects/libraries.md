@@ -17,17 +17,22 @@ items:
     desc: Shared logic for our plugins like commands, configs
     icon: flask
     url: https://docs.mineinabyss.com/Idofront/
-    
-  - title: gradle-conventions
-    desc: Gradle conventions plugins for setting up docs, publication
-    icon: plug
-    url: https://github.com/MineInAbyss/gradle-conventions/
-    
+
   - title: Guiy
     icon: layout
     desc: Our UI library, built on Jetpack Compose
     url: https://docs.mineinabyss.com/guiy-compose/
-  
+
+  - title: gradle-conventions
+    desc: Gradle conventions plugins for setting up docs, publication
+    icon: plug
+    url: https://docs.mineinabyss.com/gradle-conventions/
+
+  - title: catalog
+    desc: Version catalog for commonly used libraries
+    icon: list-letters
+    url: https://github.com/MineInAbyss/catalog
+    
   - title: dependencies-kt
     icon: sitemap
     desc: DI library we use to split code into modules

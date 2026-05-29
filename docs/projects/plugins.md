@@ -8,15 +8,15 @@ items:
     icon: hierarchy-2
     url: https://github.com/MineInAbyss/MineInAbyss
 
+  - title: Plugin template
+    desc: Example setup and usage of our libraries in a PaperMC plugin
+    icon: template
+    url: https://github.com/MineInAbyss/MineInAbyss
+
   - title: Cartridge
     icon: device-gamepad
     desc: Paper server patches for more fundamental features like disabling fall damage reduction.
     url: https://github.com/MineInAbyss/Cartridge
-    
-  - title: HiddenOre
-    desc: Our fork of a plugin for spawning ores throughout the abyss
-    icon: pick
-    url: https://github.com/MineInAbyss/HiddenOre
     
   - title: DeeperWorld
     desc: Plugin for extending the Minecraft world height
@@ -51,6 +51,11 @@ items:
     icon: slash
     desc: Little helper commands like /ptime or /gmc
     url: https://github.com/MineInAbyss/ExtraCommands
+
+  - title: HiddenOre
+    desc: Our fork of a plugin for spawning ores throughout the abyss
+    icon: pick
+    url: https://github.com/MineInAbyss/HiddenOre
 
   - title: ShulkerPacks
     icon: cube
